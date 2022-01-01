@@ -1,0 +1,121 @@
+html {
+    margin:0;
+    padding:0;
+}
+
+
+#global {
+	border-width: 3px;
+	border-style: solid;
+	border-color: black;
+	background-color: #D2B48C;
+	width: 1000px;
+	padding-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+	text-align: center;
+	
+} 
+
+body {
+	padding: 0px;
+	margin:0;
+	color: #17202A;
+	background: url(../images/arena.jpg) no-repeat center fixed;
+	width:100%;
+    background-size: 100% auto;
+    -o-background-size: cover;
+    background-origin: padding-box;
+    background-color: black;
+}
+
+#header {
+	position: fixed;
+   	background-color: #212F3C;
+	background-size: 100% auto;
+	border: solid 1px black;
+	width: 100%;
+	height: 100px;
+	}
+#logo{
+	position: absolute;
+	width: 85px;
+	height: 85px;
+	margin-left: 30px;
+	margin-top: 8px;
+}
+
+#text{
+	margin-right: 50px;
+	text-align: right;
+}
+
+.imgs{
+    width: 50px;
+    height: 50px; 
+    border: solid black 4px;
+	border-radius: 15px;
+}
+
+.intro {
+	border-width: 1px;
+	border-color: red;
+	margin-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+}
+
+.explications {
+	border-width: 1px;
+	border-color: brown;
+	margin-bottom: 20px;
+	padding-left: 30px;
+	padding-right: 20px;
+	text-align: center;
+}
+
+.import {
+	color: brown;
+	margin-top : 30px;
+	margin-bottom: 20px;
+	padding-left: 10px;
+	text-align: center;
+}
+
+.bouton {
+	color: white;
+	margin-top: -90px;
+	
+}
+.bou {
+	color : #212F3C;
+}
+
+.b {
+	color: #F4D03F;
+}
+
+.mail {
+	color: blue;
+	margin-top : 10px;
+	margin-bottom: 10px;
+
+}
+
+.title {
+	text-align: center;
+	margin-top: 20px; 
+	color: white;
+	font-size: 50px;
+}
+
+.contact {
+	border-width: 2px;
+	border-color: brown;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	padding-left: 20px;
+	text-align: center;
+}
